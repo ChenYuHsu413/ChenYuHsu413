@@ -1,0 +1,37 @@
+# 貪吃蛇動畫產生器
+# 放到你的同名 repo 裡,路徑必須是:.github/workflows/snake.yml
+# 推上去後到 repo 的 Actions 頁籤手動按一次 "Run workflow",之後每天會自動更新
+
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   # 每天 UTC 00:00 自動跑一次
+  workflow_dispatch:        # 允許手動觸發
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Generate snake animation
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
