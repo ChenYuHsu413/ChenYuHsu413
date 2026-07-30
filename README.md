@@ -1,5 +1,5 @@
 <!-- 頂部漸層橫幅 -->
-<img src="https://capsule-render.vercel.app/api?type=soft&height=200&color=0:43CEA2,100:185A9D&text=Hi,%20I'm%20ChenYu%20Hsu%20👋&fontColor=FFFFFF&fontSize=48&fontAlignY=42&desc=AI%20%26%20Full-Stack%20Developer%20from%20Taiwan%20·%20Building%20and%20learning%20in%20public&descSize=17&descAlignY=68&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&height=200&color=0:43CEA2,100:185A9D&text=Hi%2C%20I%27m%20ChenYu%20Hsu%20%F0%9F%91%8B&fontColor=FFFFFF&fontSize=48&fontAlignY=42&desc=AI%20%2B%20Full-Stack%20Developer%20from%20Taiwan%20%C2%B7%20Building%20and%20learning%20in%20public&descSize=17&descAlignY=68&animation=fadeIn" width="100%"/>
 
 <!-- 打字機動畫:改成反映 AI + 全端的主軸 -->
 <div align="center">
