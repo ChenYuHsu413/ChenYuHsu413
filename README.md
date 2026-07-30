@@ -53,8 +53,8 @@ fun_fact: "My best ideas show up in the shower"
 ## 📈 Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ChenYuHsu413&show_icons=true&hide_border=true&bg_color=0D1117&title_color=43CEA2&icon_color=43CEA2&text_color=C9D1D9&include_all_commits=true"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChenYuHsu413&layout=compact&hide_border=true&bg_color=0D1117&title_color=43CEA2&text_color=C9D1D9&langs_count=8"/>
+  <img height="165" src="https://github-readme-stats-liart-phi-76.vercel.app/api?username=ChenYuHsu413&show_icons=true&hide_border=true&bg_color=0D1117&title_color=43CEA2&icon_color=43CEA2&text_color=C9D1D9&include_all_commits=true"/>
+  <img height="165" src="https://github-readme-stats-liart-phi-76.vercel.app/api/top-langs/?username=ChenYuHsu413&layout=compact&hide_border=true&bg_color=0D1117&title_color=43CEA2&text_color=C9D1D9&langs_count=8"/>
 </div>
 
 <div align="center">
@@ -73,16 +73,16 @@ fun_fact: "My best ideas show up in the shower"
 
 <div align="center">
   <a href="https://github.com/ChenYuHsu413/AIFinalProject">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ChenYuHsu413&repo=AIFinalProject&hide_border=true&bg_color=0D1117&title_color=43CEA2&icon_color=43CEA2&text_color=C9D1D9"/>
+    <img src="https://github-readme-stats-liart-phi-76.vercel.app/api/pin/?username=ChenYuHsu413&repo=AIFinalProject&hide_border=true&bg_color=0D1117&title_color=43CEA2&icon_color=43CEA2&text_color=C9D1D9"/>
   </a>
   <a href="https://github.com/ChenYuHsu413/taiwan-pc-fit-checker">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ChenYuHsu413&repo=taiwan-pc-fit-checker&hide_border=true&bg_color=0D1117&title_color=43CEA2&icon_color=43CEA2&text_color=C9D1D9"/>
+    <img src="https://github-readme-stats-liart-phi-76.vercel.app/api/pin/?username=ChenYuHsu413&repo=taiwan-pc-fit-checker&hide_border=true&bg_color=0D1117&title_color=43CEA2&icon_color=43CEA2&text_color=C9D1D9"/>
   </a>
   <a href="https://github.com/ChenYuHsu413/ssr1-movie-webapp">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ChenYuHsu413&repo=ssr1-movie-webapp&hide_border=true&bg_color=0D1117&title_color=43CEA2&icon_color=43CEA2&text_color=C9D1D9"/>
+    <img src="https://github-readme-stats-liart-phi-76.vercel.app/api/pin/?username=ChenYuHsu413&repo=ssr1-movie-webapp&hide_border=true&bg_color=0D1117&title_color=43CEA2&icon_color=43CEA2&text_color=C9D1D9"/>
   </a>
   <a href="https://github.com/ChenYuHsu413/Monster-Hunter-Rise-equipment-search-tool">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ChenYuHsu413&repo=Monster-Hunter-Rise-equipment-search-tool&hide_border=true&bg_color=0D1117&title_color=43CEA2&icon_color=43CEA2&text_color=C9D1D9"/>
+    <img src="https://github-readme-stats-liart-phi-76.vercel.app/api/pin/?username=ChenYuHsu413&repo=Monster-Hunter-Rise-equipment-search-tool&hide_border=true&bg_color=0D1117&title_color=43CEA2&icon_color=43CEA2&text_color=C9D1D9"/>
   </a>
 </div>
 
