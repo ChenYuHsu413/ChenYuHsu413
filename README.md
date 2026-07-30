@@ -58,7 +58,7 @@ fun_fact: "My best ideas show up in the shower"
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ChenYuHsu413&hide_border=true&background=0D1117&ring=43CEA2&fire=43CEA2&currStreakLabel=43CEA2&currStreakNum=F0F6FC&sideNums=F0F6FC&sideLabels=C9D1D9&dates=8B949E"/>
+  <img src="https://streak-stats.demolab.com?user=ChenYuHsu413&hide_border=true&background=0D1117&ring=43CEA2&fire=43CEA2&currStreakLabel=43CEA2&currStreakNum=F0F6FC&sideNums=F0F6FC&sideLabels=C9D1D9&dates=8B949E"/>
 </div>
 
 ---
