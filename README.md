@@ -72,17 +72,17 @@ fun_fact: "My best ideas show up in the shower"
 ## 📌 Featured Projects
 
 <div align="center">
+  <a href="https://github.com/ChenYuHsu413/AITown">
+    <img src="https://github-readme-stats-liart-phi-76.vercel.app/api/pin/?username=ChenYuHsu413&repo=AITown&hide_border=true&bg_color=0D1117&title_color=43CEA2&icon_color=43CEA2&text_color=C9D1D9"/>
+  </a>
+  <a href="https://github.com/ChenYuHsu413/taiwan-weather-map">
+    <img src="https://github-readme-stats-liart-phi-76.vercel.app/api/pin/?username=ChenYuHsu413&repo=taiwan-weather-map&hide_border=true&bg_color=0D1117&title_color=43CEA2&icon_color=43CEA2&text_color=C9D1D9"/>
+  </a>
+  <a href="https://github.com/ChenYuHsu413/Monster-Hunter-equipment-search-tool">
+    <img src="https://github-readme-stats-liart-phi-76.vercel.app/api/pin/?username=ChenYuHsu413&repo=Monster-Hunter-equipment-search-tool&hide_border=true&bg_color=0D1117&title_color=43CEA2&icon_color=43CEA2&text_color=C9D1D9"/>
+  </a>
   <a href="https://github.com/ChenYuHsu413/AIFinalProject">
     <img src="https://github-readme-stats-liart-phi-76.vercel.app/api/pin/?username=ChenYuHsu413&repo=AIFinalProject&hide_border=true&bg_color=0D1117&title_color=43CEA2&icon_color=43CEA2&text_color=C9D1D9"/>
-  </a>
-  <a href="https://github.com/ChenYuHsu413/taiwan-pc-fit-checker">
-    <img src="https://github-readme-stats-liart-phi-76.vercel.app/api/pin/?username=ChenYuHsu413&repo=taiwan-pc-fit-checker&hide_border=true&bg_color=0D1117&title_color=43CEA2&icon_color=43CEA2&text_color=C9D1D9"/>
-  </a>
-  <a href="https://github.com/ChenYuHsu413/ssr1-movie-webapp">
-    <img src="https://github-readme-stats-liart-phi-76.vercel.app/api/pin/?username=ChenYuHsu413&repo=ssr1-movie-webapp&hide_border=true&bg_color=0D1117&title_color=43CEA2&icon_color=43CEA2&text_color=C9D1D9"/>
-  </a>
-  <a href="https://github.com/ChenYuHsu413/Monster-Hunter-Rise-equipment-search-tool">
-    <img src="https://github-readme-stats-liart-phi-76.vercel.app/api/pin/?username=ChenYuHsu413&repo=Monster-Hunter-Rise-equipment-search-tool&hide_border=true&bg_color=0D1117&title_color=43CEA2&icon_color=43CEA2&text_color=C9D1D9"/>
   </a>
 </div>
 
