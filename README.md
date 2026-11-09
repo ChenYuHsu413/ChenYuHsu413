@@ -79,7 +79,7 @@ fun_fact: "My best ideas show up in the shower"
 <div align="center">
   <a href="https://echoai.saysing.com.tw"><img src="https://img.shields.io/badge/ECHOAi-Brand_Website-185A9D?style=flat-square&logo=nextdotjs&logoColor=white"/></a>
   <br/>
-  <sub>公司新品牌 ECHOAi 形象官網（Next.js），負責開發</sub>
+  <sub>Brand website for ECHOAi, SaySing's new AI product line (Next.js) — developed by me.</sub>
 </div>
 
 ### 🤖 AI & ML
