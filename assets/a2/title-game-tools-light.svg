@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="242" height="46" viewBox="0 0 242 46" role="img" aria-label="Game Tools">
+<style>:root{--bg:#FFFFFF;--panel:#F6F8FA;--line:#D0D7DE;--accent:#B54708;--gold:#7A4F00;--violet:#6639BA;--text:#1F2328;--muted:#59636E;--bright:#1F2328;--hole:#1F2328;--horizon:#EEEAF8;--star:#6639BA}@font-face{font-family:'SG';src:url(data:font/woff2;base64,d09GMgABAAAAAAP8AA8AAAAAB0QAAAOiAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGhYbghgcKgZgP1NUQVQcAGwRCAqFaIR8ATYCJAMoCxYABCAFOAcgG70FIB6FcePTghKHk+IzUzK7GEoEz6+l897fu0t2A6yKpNK4IjlCYVqHLuiuFkjVeBS2tbUEuqp7YJfNyQ65EbQvlGBFInL1nSv2P8B4+InL8f/GzTAN1mrwHNTF/VMllGBAvbaGZ2ncxnxrF5Gl25BaBRD8wkxLO/x/LDAESCENCoHaJrPyaEpmITBv16HdwFRB+79A3Grq7wYyAqGSBqTaLmFEhTRjlZBCEUr7QrQvLQIefdgPJAOEbX+R2P7RufPN7Wza/eaddDNoL1wXoKQ+qqMrUCQqQ1HqFbKjinQ/DXeLbZjYlFBVzmFLgUD2KQPO9BQ3wRs6sMG6OH4GwHtY504Z+T9BNY/Ru/nF13wNYF1aZBgYzRQgH7S0ohhQiyjmSMHnK5eBCWOKtM4Jheo06dJjoJVluPMezC3nHLLfTjtsDUO+JUSrUYQaTKHBPxB7AKi2lKWkm4ltZBNNSsJv4TJtdeuGhiKWhmkPB0EdSxeHqP3PYHFwjRjGxODhrKN+dvs5rVPHqLq6UPGlYashgYfU/mt58b5P+3OLtAZ8dzFRPzr9vHjW+9dh9Z0gSm8YZOjVIG/+JCva/v7zVdrBgGG0TlM1pdG8fOeVcNDOsSsHZV2W7lL779HqtOTi58+hoktpy2+tuGTPnRcteA+zdDNofDr08XZFTeHetwnt6I2A4cngB4ufQwwEjUtaXnF0zbYtq1evXYNWC8nm//F6L1JYnnsy53xVZmZyXhz9QvPW2u5kTp/wC/zM+dAl7fqQA7OMuQK9O9nndScWaUOblaav2p470Tbt1ZxLxri67trKh0q5tSZP/0mF5VQNv15XFZ4aF6KuMUyrlD/BOoz0xsT0Z9Gzo/t6YtLTOmIi+zItA5Ks5PCw3Klq91hmifVZxF93QnggFB8Op14PvIb0v30hzvOnu4PxNgwb8zvSiZjsWRGpA7G2CYsDCRn6B+6MmAVmhxE0KqE3h52T0IdGIshAZFP0fr0DUelNsTm56dT0JxqLYwX+cO2yAnpum7QpMl7lmpXKXox83l6gtbvS2rNKCjrS/7apluSbzKek0hvJX9pKVZG+rO58ABx4D4Fk3daGtzWsqF/kUr7Dp93aHQB8E0UtB0n7vUxiX6IrQfCTxcuKA26mCwSxa+N2q/0H+Rj8mQmSjAdLJoMnCE6VEkjPJvAkwy6B2uzhbeqotEYR1aA0gvrbgiEjzmrSYoFOdfqVaNKmRSsUDmh351UAAAAA) format('woff2');}
+.bg{fill:var(--bg)}.panel{fill:var(--panel)}.ln{stroke:var(--line)}.acc{fill:var(--accent)}.gold{fill:var(--gold)}
+.vio{fill:var(--violet)}.txt{fill:var(--text)}.mut{fill:var(--muted)}.brt{fill:var(--bright)}
+.sg{font-family:'SG',sans-serif;font-weight:600}.sgr{font-family:'SGR','Noto Sans TC','Microsoft JhengHei','PingFang TC','Heiti TC',sans-serif}.jb{font-family:'JB',Consolas,monospace}
+</style>
+<defs>
+<linearGradient id="tg" x1="0" y1="0" x2="1" y2="0"><stop offset="0" style="stop-color:var(--gold);stop-opacity:1"/><stop offset="1" style="stop-color:var(--accent);stop-opacity:1"/></linearGradient>
+<linearGradient id="ll" x1="0" y1="0" x2="1" y2="0"><stop offset="0" style="stop-color:var(--violet);stop-opacity:0"/><stop offset="0.6" style="stop-color:var(--violet);stop-opacity:0.8"/><stop offset="1" style="stop-color:var(--accent);stop-opacity:1"/></linearGradient>
+<linearGradient id="lr" x1="0" y1="0" x2="1" y2="0"><stop offset="0" style="stop-color:var(--accent);stop-opacity:1"/><stop offset="0.4" style="stop-color:var(--violet);stop-opacity:0.8"/><stop offset="1" style="stop-color:var(--violet);stop-opacity:0"/></linearGradient>
+<filter id="gl" x="-200%" y="-200%" width="500%" height="500%"><feGaussianBlur stdDeviation="2.5"/></filter>
+</defs>
+<rect x="0.2" y="22.4" width="36" height="1.2" fill="url(#ll)"/>
+<rect x="205.8" y="22.4" width="36" height="1.2" fill="url(#lr)"/>
+<circle cx="44.2" cy="23.0" r="4.4" class="acc" filter="url(#gl)" opacity="0.6"/>
+<circle cx="44.2" cy="23.0" r="2.2" class="gold"/>
+<circle cx="197.8" cy="23.0" r="4.4" class="acc" filter="url(#gl)" opacity="0.6"/>
+<circle cx="197.8" cy="23.0" r="2.2" class="gold"/>
+
+<text x="121.0" y="30.7" text-anchor="middle" class="sg" font-size="22" style="fill:var(--bright)">Game Tools</text>
+</svg>

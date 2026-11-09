@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="46" viewBox="0 0 200 46" role="img" aria-label="Archive">
+<style>:root{--bg:#07070F;--panel:#0D0B1A;--line:#2A2340;--accent:#FF9A3C;--gold:#FFD27A;--violet:#8466FF;--text:#C9D1D9;--muted:#8B949E;--bright:#F0F6FC;--hole:#000000;--horizon:#000000;--star:#FFFFFF}@font-face{font-family:'SG';src:url(data:font/woff2;base64,d09GMgABAAAAAANMAA8AAAAABhQAAALzAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGhwbgVQcKgZgP1NUQVQcAFwRCAqECIMqATYCJAMoCxYABCAFOAcgG50ECB6FTZkvdnlJkiTJh7ansyXHtkQQb/f/VffM05xPKiIWdAYoiMyMzqlw9/78unqzAJKU9s/6SEUwJEghQgqR8Qrgf+KWWj/Ia1iWZvb+nGXPp68llGBCz3b+Cg4HNLDxKMC5TfV0yPZIVLahdonLzxboBkgp1EK7diHQGGeOXLchKgk4px/TVAMcNbRaAnHaCQ01QEMg1FKn0Ckdj4QzdWrXAQCtPzr3H+ivqSn2b+MUQgfWi2VZaVOLylp1s6rnVBFOMAmXeWCFOudlGjJ5fVoCbF0Sh+GhAfzwfBu2AnjDai3V8//v1FeGFgHxXb6CUSohdAr0A+RFJ5U1YQASFfqpsA/WNgE9dErtVitUrFyDllbESNmbW2+c/PAH3/k2cbMVyc/2RGhAPzS4GW+g22/EIZNuDMftrMcOoUp70rrV5UjJblK6JR1gZjT513/xRcQ1X35Zbvj889E7R556p7n+s8+4+vPPyw2fjt019dlnuwndHiPaQ3cNffTZ/jLzxVmvtJUsD7z+LpdmU13zybRBqQoVa1j4l34ky/6SXjJL2pHB1+Ka18sNr7r6lVKV7Pf6yx8jc/nkybb19d0vDh3Lh5ndw87zDKiP48Sp6PyPsNAi5J3Sc+YAn9szJpn81NpgxEDjgvw0Ju+vc86U7y7fVYTDlO4RZ/v4NESzYpbX1/qEh1X6eNZHmRrl0cFuV9zn4Vmv2/aYj5b8Zwlw253+btj8ynk9+Wej+emLU3FLpq+xUeG1smB5cFzkv82/nbOYv7F0nFeJD36/cAQ899ivl14y3PvS4UvLy7hwmuJ4zJjjkaOXxoxZsvm3837TPkEX2nUWNSzAB/n2ZW8IJI/f+OXDuT29/qURqx/g2wfV98H3A5d1gKj1l8W5h3YJgj+MqusowHsGBqyGOMjhbCfKaCiDoSwVHmQLos/mVOuHqUG2GYbGWKmXFECNz6URKlF3ST2IvlvQTQ/bFSvVrEq+BqmKlStVpgkRaD1oDgAAAA==) format('woff2');}
+.bg{fill:var(--bg)}.panel{fill:var(--panel)}.ln{stroke:var(--line)}.acc{fill:var(--accent)}.gold{fill:var(--gold)}
+.vio{fill:var(--violet)}.txt{fill:var(--text)}.mut{fill:var(--muted)}.brt{fill:var(--bright)}
+.sg{font-family:'SG',sans-serif;font-weight:600}.sgr{font-family:'SGR','Noto Sans TC','Microsoft JhengHei','PingFang TC','Heiti TC',sans-serif}.jb{font-family:'JB',Consolas,monospace}
+</style>
+<defs>
+<linearGradient id="tg" x1="0" y1="0" x2="1" y2="0"><stop offset="0" style="stop-color:var(--gold);stop-opacity:1"/><stop offset="1" style="stop-color:var(--accent);stop-opacity:1"/></linearGradient>
+<linearGradient id="ll" x1="0" y1="0" x2="1" y2="0"><stop offset="0" style="stop-color:var(--violet);stop-opacity:0"/><stop offset="0.6" style="stop-color:var(--violet);stop-opacity:0.8"/><stop offset="1" style="stop-color:var(--accent);stop-opacity:1"/></linearGradient>
+<linearGradient id="lr" x1="0" y1="0" x2="1" y2="0"><stop offset="0" style="stop-color:var(--accent);stop-opacity:1"/><stop offset="0.4" style="stop-color:var(--violet);stop-opacity:0.8"/><stop offset="1" style="stop-color:var(--violet);stop-opacity:0"/></linearGradient>
+<filter id="gl" x="-200%" y="-200%" width="500%" height="500%"><feGaussianBlur stdDeviation="2.5"/></filter>
+</defs>
+<rect x="0.2" y="22.4" width="36" height="1.2" fill="url(#ll)"/>
+<rect x="163.8" y="22.4" width="36" height="1.2" fill="url(#lr)"/>
+<circle cx="44.2" cy="23.0" r="4.4" class="acc" filter="url(#gl)" opacity="0.6"/>
+<circle cx="44.2" cy="23.0" r="2.2" class="gold"/>
+<circle cx="155.8" cy="23.0" r="4.4" class="acc" filter="url(#gl)" opacity="0.6"/>
+<circle cx="155.8" cy="23.0" r="2.2" class="gold"/>
+
+<text x="100.0" y="30.7" text-anchor="middle" class="sg" font-size="22" style="fill:var(--bright)">Archive</text>
+</svg>

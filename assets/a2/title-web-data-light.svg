@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="241" height="46" viewBox="0 0 241 46" role="img" aria-label="Web &amp; Data">
+<style>:root{--bg:#FFFFFF;--panel:#F6F8FA;--line:#D0D7DE;--accent:#B54708;--gold:#7A4F00;--violet:#6639BA;--text:#1F2328;--muted:#59636E;--bright:#1F2328;--hole:#1F2328;--horizon:#EEEAF8;--star:#6639BA}@font-face{font-family:'SG';src:url(data:font/woff2;base64,d09GMgABAAAAAAQQAA8AAAAAB2gAAAO2AAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGjAbgXAcVgZgP1NUQVQcAGQRCAqFeIUVATYCJAMoCxYABCAFOAcgG+wFUZQuzgMAfiRUPCe6N17TcODUZBr3kpzcGOO/eHiy+75zq3pUPV9gRGCp7G0KRgEYKoUUwT1kl82lXEQdgJO4E0AlwI5t0kJPov8Bwj9PnEsXyZvAcIKj+cjW342NVTT6e7AXfKDHaM4meqD3J6NXXSvLYH53WQtoPIlAN4YjSZIOoUuXpF3oFvqeUIl4FgSK8eZKq9Zs2qXnpeM3X9FTBU1TIC6evnFFJ7ayStIpKRYKvVXIhhptopCjteMim7/h2LWjuVuyR4VjbmjTAUDzawV9TzZ/O37rwh/HftHktrs19mfzW2z/nhSOBGGtlQRy15KjNZ2ZB23CS+fPHgcrW4ijb56odL3fYaFDleanfdpILaHZ2EscMTfGcdxwsTUb8arRbs63/v+I6t5IRkB8k14EjJbFypvTH5BuO3vu5gAgIaO/jPtuZRt66y1jtIlW2euE025udJHjn3VfeNmaVcumC3rbEE1TL4QC+qMn0UasAlTAd3Gm/KQ9S+9J9aCeQzv6jevq16+OOpfo8fB17r9W9tTDNyMeuFFKfaQO1DCu4i9E8e9u3XgnHrj5bl3HA0dK69zwPbv6bv0oA62V1oFceWTttT0cS5XWlvv3jw/dmFqUtjrVTx98E64sE3hrz8hvXeP+TdcLqJWpYMLY8vWi/mqUY+HSNS+6AqzCW1dIuUTtAV4kaEE7up3kxTTSiW2ZWdkl0LF+GoXG9qCkdsfrFAbSP7eSeEVUxoxMj471jCXsEWW12mFx2YYHOR1q0Jm/26YrDysov1ww/y/a8vaC3cuFzWFFzeAxPt+WTFbQqGSZI5E1Hpv2iUbNba5I3DC5UsUFtfn+I7HRmdCSfDUuKCxw81x8gKMSs5CBlIdxsd9ANa7UkvEwScNeExa2WvA8T1DCFTSYQ82ChlJuoEhoMesQvdkkElpNekRnNYNMXFsvFDYaMKOgoU6oUVcJeQ36jKYIg4LDNj8gyHf0rsyT3P9kKYfBknBAG3mAktIJOxebFsfgWHhsdBEEHwX+bLqNlxUn9vzGey7ViPgMmz+T1wAD5C+0pHcpsVWwERKQoD4i6q7Wkb/RmVIaGVUH66x7KqZtRfxvB8DSVwUSyz8jyo/24v/WmfN38OEziU/Ct4MW3d2w5ks+nPYA7RIIfjt3fghB6N1FcJZy97ZHNKQnwcx8t9FpuSnpPuuTwpx43bC0w+jc0zCBYi67gZuUjJRF1SXpSf3bgm497XDaWbe45Lgb9jrtvLPOuVkGmmeaSwAAAAA=) format('woff2');}
+.bg{fill:var(--bg)}.panel{fill:var(--panel)}.ln{stroke:var(--line)}.acc{fill:var(--accent)}.gold{fill:var(--gold)}
+.vio{fill:var(--violet)}.txt{fill:var(--text)}.mut{fill:var(--muted)}.brt{fill:var(--bright)}
+.sg{font-family:'SG',sans-serif;font-weight:600}.sgr{font-family:'SGR','Noto Sans TC','Microsoft JhengHei','PingFang TC','Heiti TC',sans-serif}.jb{font-family:'JB',Consolas,monospace}
+</style>
+<defs>
+<linearGradient id="tg" x1="0" y1="0" x2="1" y2="0"><stop offset="0" style="stop-color:var(--gold);stop-opacity:1"/><stop offset="1" style="stop-color:var(--accent);stop-opacity:1"/></linearGradient>
+<linearGradient id="ll" x1="0" y1="0" x2="1" y2="0"><stop offset="0" style="stop-color:var(--violet);stop-opacity:0"/><stop offset="0.6" style="stop-color:var(--violet);stop-opacity:0.8"/><stop offset="1" style="stop-color:var(--accent);stop-opacity:1"/></linearGradient>
+<linearGradient id="lr" x1="0" y1="0" x2="1" y2="0"><stop offset="0" style="stop-color:var(--accent);stop-opacity:1"/><stop offset="0.4" style="stop-color:var(--violet);stop-opacity:0.8"/><stop offset="1" style="stop-color:var(--violet);stop-opacity:0"/></linearGradient>
+<filter id="gl" x="-200%" y="-200%" width="500%" height="500%"><feGaussianBlur stdDeviation="2.5"/></filter>
+</defs>
+<rect x="0.1" y="22.4" width="36" height="1.2" fill="url(#ll)"/>
+<rect x="204.9" y="22.4" width="36" height="1.2" fill="url(#lr)"/>
+<circle cx="44.1" cy="23.0" r="4.4" class="acc" filter="url(#gl)" opacity="0.6"/>
+<circle cx="44.1" cy="23.0" r="2.2" class="gold"/>
+<circle cx="196.9" cy="23.0" r="4.4" class="acc" filter="url(#gl)" opacity="0.6"/>
+<circle cx="196.9" cy="23.0" r="2.2" class="gold"/>
+
+<text x="120.5" y="30.7" text-anchor="middle" class="sg" font-size="22" style="fill:var(--bright)">Web &amp; Data</text>
+</svg>

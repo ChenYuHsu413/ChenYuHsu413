@@ -24,9 +24,10 @@ jobs:
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
+          # 配色對應 tools/build_a2_assets.py 的 PALETTES：蛇用吸積盤橘金，格子用深空色階（空 → 最多）
           outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
+            dist/github-snake.svg?palette=github-light&color_snake=#B54708&color_dots=#EBEDF0,#D9CFF5,#B39CEB,#8A66DA,#5B2FB0
+            dist/github-snake-dark.svg?palette=github-dark&color_snake=#FF9A3C&color_dots=#14121F,#2A2340,#4B3D8F,#8466FF,#FFD27A
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0

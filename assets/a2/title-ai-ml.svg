@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="195" height="46" viewBox="0 0 195 46" role="img" aria-label="AI &amp; ML">
+<style>:root{--bg:#07070F;--panel:#0D0B1A;--line:#2A2340;--accent:#FF9A3C;--gold:#FFD27A;--violet:#8466FF;--text:#C9D1D9;--muted:#8B949E;--bright:#F0F6FC;--hole:#000000;--horizon:#000000;--star:#FFFFFF}@font-face{font-family:'SG';src:url(data:font/woff2;base64,d09GMgABAAAAAAKUAA8AAAAABNQAAAI9AAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGhYbgRocKgZgP1NUQVQcAFQRCAqCIIF5ATYCJAMcCxAABCAFOAcgG5gDQD4N0GO/gSphBACJpyoR6W1TtuigO1tqI+LZ/eqhtATBWjq79wEGDRIUkItKiiyRXISucqyqq5CFqu1BfO5H7svPUXJAxMJAjanxnY5HlCeLqJoLgbw9YpOJq2HE3nhVa3XyJUfnPydAlXjlP/146gaDrzt9SZimGuIhOLXAjpxggFHQ1lYaUatlcN2henalSYuI6nB5WEAjQBKKCyFQL1E+tdLcOYj3pbnDbbxpUBIQF5f2t3GHgKAp7hSjmPCloRAuVjLhEIomVLkgGFfyBfolc6g7FMHZ1BLJbX6yVBO6A0AlC3MXF+R+7oLtriSOkB8TaMOXrG2Dl0Z1FW/+f6JyVxIhQPzJMcohhDuBToC8trJ6KAAJBXRyCHTSaqGRO0WLlaxOm64SGjrPKb9buAAAgpS0QHADmqEGduA8QAWAJIRQtVq7+k54NMzYKTPsOThhx411sTrJCzh1U9q4mEkzbbS98eZV9PbxTLyK1dcNMPuvuS9LLJbJYStDHvjiycVJu1lVW/V6eFg/mp7euI3U07ql8f3igt/lhesvL/ldnLrjt/ot8WXpUGbhQEVGTO3Yv6bmms2ayqKByfSKvZmp3O/zfDS8MbM/Mz0znX+95/FzwfoCwDKBxM0zkbeO+lT+qy2ct/Dx8Xjwt2fxnEAUs/kU1RQQeCQVjx58MwSx5gQ54n/yBoFR0JQxmoptmrKfWAI1MikgWC9Fc0jFA8UbigUaQah+S1Yc2TRn34gla1asOuQAyptD) format('woff2');}
+.bg{fill:var(--bg)}.panel{fill:var(--panel)}.ln{stroke:var(--line)}.acc{fill:var(--accent)}.gold{fill:var(--gold)}
+.vio{fill:var(--violet)}.txt{fill:var(--text)}.mut{fill:var(--muted)}.brt{fill:var(--bright)}
+.sg{font-family:'SG',sans-serif;font-weight:600}.sgr{font-family:'SGR','Noto Sans TC','Microsoft JhengHei','PingFang TC','Heiti TC',sans-serif}.jb{font-family:'JB',Consolas,monospace}
+</style>
+<defs>
+<linearGradient id="tg" x1="0" y1="0" x2="1" y2="0"><stop offset="0" style="stop-color:var(--gold);stop-opacity:1"/><stop offset="1" style="stop-color:var(--accent);stop-opacity:1"/></linearGradient>
+<linearGradient id="ll" x1="0" y1="0" x2="1" y2="0"><stop offset="0" style="stop-color:var(--violet);stop-opacity:0"/><stop offset="0.6" style="stop-color:var(--violet);stop-opacity:0.8"/><stop offset="1" style="stop-color:var(--accent);stop-opacity:1"/></linearGradient>
+<linearGradient id="lr" x1="0" y1="0" x2="1" y2="0"><stop offset="0" style="stop-color:var(--accent);stop-opacity:1"/><stop offset="0.4" style="stop-color:var(--violet);stop-opacity:0.8"/><stop offset="1" style="stop-color:var(--violet);stop-opacity:0"/></linearGradient>
+<filter id="gl" x="-200%" y="-200%" width="500%" height="500%"><feGaussianBlur stdDeviation="2.5"/></filter>
+</defs>
+<rect x="-0.1" y="22.4" width="36" height="1.2" fill="url(#ll)"/>
+<rect x="159.1" y="22.4" width="36" height="1.2" fill="url(#lr)"/>
+<circle cx="43.9" cy="23.0" r="4.4" class="acc" filter="url(#gl)" opacity="0.6"/>
+<circle cx="43.9" cy="23.0" r="2.2" class="gold"/>
+<circle cx="151.1" cy="23.0" r="4.4" class="acc" filter="url(#gl)" opacity="0.6"/>
+<circle cx="151.1" cy="23.0" r="2.2" class="gold"/>
+
+<text x="97.5" y="30.7" text-anchor="middle" class="sg" font-size="22" style="fill:var(--bright)">AI &amp; ML</text>
+</svg>

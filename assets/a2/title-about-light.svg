@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="324" height="64" viewBox="0 0 324 64" role="img" aria-label="About Me">
+<style>:root{--bg:#FFFFFF;--panel:#F6F8FA;--line:#D0D7DE;--accent:#B54708;--gold:#7A4F00;--violet:#6639BA;--text:#1F2328;--muted:#59636E;--bright:#1F2328;--hole:#1F2328;--horizon:#EEEAF8;--star:#6639BA}@font-face{font-family:'SG';src:url(data:font/woff2;base64,d09GMgABAAAAAAOQAA8AAAAABuQAAAM5AAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGjAbgVwcVgZgP1NUQVQcAGQRCAqFCIQqATYCJAMoCxYABCAFOAcgG20FUZQuynEAPw/sBucWwjRb/USMgr1+AeMKcR9BNEfOXvJAXLKsGMhV6CoBaCvrEBWQbX7eTv8l/i9Xckpc6lJRh7GcIE4dZo4glkVpmxlcAP8T19SP8uY3etAnq1oXeBRHge185xvINEo8mgY4oN1sNxwITvW0A5dk06rJDn9JoBrdSJKkXKhQISkVqoVQIeQibgtUGmaMNHP2wpVqD247eVitHIpCIA7sOn5YOQIhl5RLKk0Q6uXIdOo3QsiEpExIxV8h5qvLiouSqXLMt1GuFIDiB0a+mRzyXcmhZ88SFVUn4F0+Qz4CJVJ94oP79mwDczeit3GfzVVUNSuUydO4tFYJ6aZRLBgnNhsTQ5ww3N/sBXis36ns2f9X5JdjGALiS9pEv0wI5QLNgHRmz96TASRkaJbRvVduKerVy9BvmkW22+WIU0UWOPnc4v27evnUMcHtJkRRqEOoBM2owVOiFpADSELqYFxaKs/r22qX2YhNDEwtTE2hCApwpiw9D3IxCKEAikCAhTgfF2JBSe+NBiMsBB7M7RxC3/U10nF1ldl3SxCdN7j3Cum4Fto3VOT2VpOQrVyDxkvbjOmzq1xYFZqiZpLUkL0XBB8T4AFUhHkdAOhagA84dA7yyYCHCTx9NQYAXTDb2TgPXIt6SbhtBHlcUGqMIjbfu2qNu2vfNrkK467yvfaoxhWonoyMdSWNQ+hNVma8VvLtElThH0QnGyUH0ZX+BWVUSnIcjk9O0lOpSfE4LjUZacjYZopiEmSJQXQTFRNdRwXQ8WrWOiHCzzf5pdD1IT5Ls+v/7xrq5+UT4ofcyVguMLQ5ySgplOYCYmPZgFCamNbMBsZU6JOSY3DM8unBxyGha7ebvLOoc4ldGiwaNHGwKytCQrFflrtLPqViHAPXvYMik+J+mO/NEcYH4W53yKaiJmeTlrY9ZWn2ToIpjwUSl4812FI38V95ln2Dl7cGg69tgRc1F7+zUek+SiUQ/IVAdkNBaB4iOLvy9EdsVpDOac4Om5WumJdmGZ12GR1PdKU9ZmW1ugQqjZBAsGVJr0zkFZJa8HcLqtVabpc9Tjlom+PW2GWfPfY6KQOKW8Yw) format('woff2');}
+.bg{fill:var(--bg)}.panel{fill:var(--panel)}.ln{stroke:var(--line)}.acc{fill:var(--accent)}.gold{fill:var(--gold)}
+.vio{fill:var(--violet)}.txt{fill:var(--text)}.mut{fill:var(--muted)}.brt{fill:var(--bright)}
+.sg{font-family:'SG',sans-serif;font-weight:600}.sgr{font-family:'SGR','Noto Sans TC','Microsoft JhengHei','PingFang TC','Heiti TC',sans-serif}.jb{font-family:'JB',Consolas,monospace}
+</style>
+<defs>
+<linearGradient id="tg" x1="0" y1="0" x2="1" y2="0"><stop offset="0" style="stop-color:var(--gold);stop-opacity:1"/><stop offset="1" style="stop-color:var(--accent);stop-opacity:1"/></linearGradient>
+<linearGradient id="ll" x1="0" y1="0" x2="1" y2="0"><stop offset="0" style="stop-color:var(--violet);stop-opacity:0"/><stop offset="0.6" style="stop-color:var(--violet);stop-opacity:0.8"/><stop offset="1" style="stop-color:var(--accent);stop-opacity:1"/></linearGradient>
+<linearGradient id="lr" x1="0" y1="0" x2="1" y2="0"><stop offset="0" style="stop-color:var(--accent);stop-opacity:1"/><stop offset="0.4" style="stop-color:var(--violet);stop-opacity:0.8"/><stop offset="1" style="stop-color:var(--violet);stop-opacity:0"/></linearGradient>
+<filter id="gl" x="-200%" y="-200%" width="500%" height="500%"><feGaussianBlur stdDeviation="2.5"/></filter>
+</defs>
+<rect x="-0.1" y="31.4" width="64" height="1.2" fill="url(#ll)"/>
+<rect x="260.1" y="31.4" width="64" height="1.2" fill="url(#lr)"/>
+<circle cx="71.9" cy="32.0" r="6" class="acc" filter="url(#gl)" opacity="0.6"/>
+<circle cx="71.9" cy="32.0" r="3" class="gold"/>
+<circle cx="252.1" cy="32.0" r="6" class="acc" filter="url(#gl)" opacity="0.6"/>
+<circle cx="252.1" cy="32.0" r="3" class="gold"/>
+<circle cx="71.9" cy="32.0" r="7" fill="none" style="stroke:var(--gold)" stroke-width="1" opacity="0"><animate attributeName="r" values="3;10" dur="4s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.7;0" dur="4s" repeatCount="indefinite"/></circle><circle cx="252.1" cy="32.0" r="7" fill="none" style="stroke:var(--gold)" stroke-width="1" opacity="0"><animate attributeName="r" values="3;10" dur="4s" begin="2s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.7;0" dur="4s" begin="2s" repeatCount="indefinite"/></circle>
+<text x="162.0" y="42.5" text-anchor="middle" class="sg" font-size="30" style="fill:url(#tg)">About Me</text>
+</svg>

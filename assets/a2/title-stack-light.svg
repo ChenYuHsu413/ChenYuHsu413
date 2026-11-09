@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="347" height="64" viewBox="0 0 347 64" role="img" aria-label="Tech Stack">
+<style>:root{--bg:#FFFFFF;--panel:#F6F8FA;--line:#D0D7DE;--accent:#B54708;--gold:#7A4F00;--violet:#6639BA;--text:#1F2328;--muted:#59636E;--bright:#1F2328;--hole:#1F2328;--horizon:#EEEAF8;--star:#6639BA}@font-face{font-family:'SG';src:url(data:font/woff2;base64,d09GMgABAAAAAARQAA8AAAAAB8wAAAP4AAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGjAbghgcVgZgP1NUQVQcAGwRCAqGKIU0ATYCJAMsCxgABCAFOAcgGz8GUZQtzp8gvjjgyfBGJ6oGRI24CTR1mtd7gDCHy+cZ4lYnxUO13/ee7rlLcz8QO6aEVVgB8tuKe+uC6NgCyl8RllgBysw86957ix/m3ddoNCIuLrlJCVS1/Ydrvk8XH/Ai+exGE1zbxGc0XlMFXVYB/FfD08ip3FK9jRcr3M+1kr2df216L9gywQHd79XazIajZUA4m24yLqFEh49Ud4RHP0tgGpYhpTQhVFUaFaYJoQqdiPcQqNbZJk+cevZ5Ztx42Z03m6GD1gTihqtuv9k4AqGTxqVqnzBLh2KJdbYIRSgmpERpPwhhhyfag9LtOjzoMYxNLbztdxf8d7J9BVztL2vbr7RXvkE7Sahrv220By33w/9IOMVBmLh1xhWdKEZHjRSMIyGQ4VBI/R8N/8brrrkM6Mzxss5xo536GQ6FCV3uyBAj5HAgnDVLXGxb8IEdVDv1LHxmlTvL8P+XdA+Hi4D4OT8CqxTR+DzzAHnPNdfeGQhTKGWvQivvXIQ5ZiUfS6uc5zJXuMq1bnBni+Gc+wrtu+9+/Wtf/fIXPylAcYjWzETowQJMI2YRF8FYt8UrlxzO2Tku7vlLBPJ0PB5aD7uOojdoeaqnyXc3EnXJwGTfqxptCzUm/5E8TDDYh76wbVsMmoZHasxUu/OHbGNPFK+UGvRyvVUBDJjV4ZuoPrELZlM9RR1eMXh11DZIWgHPXbTQNDDQEp6qncBX7nZWCqa9WixXAp8pmlW/7XZU8Uif/fOfmFLMWiarvBvsDS/sJ+fXWcX0YUWlRh+9Xs0B8yTo/8gBej5lJo7pXrRimqO/vZOzs6mKTbIhH+06oBNAvae1tXloptrNLR+yi3fnFnPl+H2Z1b+CMVfXveeMTgctvG2sbaIL9MDVzUxa5qY3cEnnLwAdtRrQPpBn3MoSP2g1qoJU3rB3sMgmNismYorFkEX7CrbZRtjI/RVOpKmzjTGsTnjOZr0Aai755na5Pigfu9x8cxfnBMgyqDqLZLWVKZHa8ASOEAwSONjwpZZ3uVnUAcvABA0g45ZjZZXnifCyzM22cnVJtzLP9ZDmUz0dTU18zqLAI49g2bzZL2hnqje2NQVcJ/PR2ByoQ2karAHDrSX5bIteg6Wjj/tX9QPqsX3jbXd3b39PTixgF4ERsA4SlkeXt+e3t0S34FiM+OgHzo7ONk2KIGPxzKej4fC3CCQn95rNLpk5/ne8lF/hixd4z8IvCy02Fre/8vv8HKMSBD+nozxKgMyaIsDYFx+9WCMvtT49LE5bm9PT1nRcaLIz0sNEaGlBNQn0djbognNphSK6CWkGYTKYZl/qHFe5xl1udJnbXegq17nGte5UgPaCbQQA) format('woff2');}
+.bg{fill:var(--bg)}.panel{fill:var(--panel)}.ln{stroke:var(--line)}.acc{fill:var(--accent)}.gold{fill:var(--gold)}
+.vio{fill:var(--violet)}.txt{fill:var(--text)}.mut{fill:var(--muted)}.brt{fill:var(--bright)}
+.sg{font-family:'SG',sans-serif;font-weight:600}.sgr{font-family:'SGR','Noto Sans TC','Microsoft JhengHei','PingFang TC','Heiti TC',sans-serif}.jb{font-family:'JB',Consolas,monospace}
+</style>
+<defs>
+<linearGradient id="tg" x1="0" y1="0" x2="1" y2="0"><stop offset="0" style="stop-color:var(--gold);stop-opacity:1"/><stop offset="1" style="stop-color:var(--accent);stop-opacity:1"/></linearGradient>
+<linearGradient id="ll" x1="0" y1="0" x2="1" y2="0"><stop offset="0" style="stop-color:var(--violet);stop-opacity:0"/><stop offset="0.6" style="stop-color:var(--violet);stop-opacity:0.8"/><stop offset="1" style="stop-color:var(--accent);stop-opacity:1"/></linearGradient>
+<linearGradient id="lr" x1="0" y1="0" x2="1" y2="0"><stop offset="0" style="stop-color:var(--accent);stop-opacity:1"/><stop offset="0.4" style="stop-color:var(--violet);stop-opacity:0.8"/><stop offset="1" style="stop-color:var(--violet);stop-opacity:0"/></linearGradient>
+<filter id="gl" x="-200%" y="-200%" width="500%" height="500%"><feGaussianBlur stdDeviation="2.5"/></filter>
+</defs>
+<rect x="0.2" y="31.4" width="64" height="1.2" fill="url(#ll)"/>
+<rect x="282.8" y="31.4" width="64" height="1.2" fill="url(#lr)"/>
+<circle cx="72.2" cy="32.0" r="6" class="acc" filter="url(#gl)" opacity="0.6"/>
+<circle cx="72.2" cy="32.0" r="3" class="gold"/>
+<circle cx="274.8" cy="32.0" r="6" class="acc" filter="url(#gl)" opacity="0.6"/>
+<circle cx="274.8" cy="32.0" r="3" class="gold"/>
+<circle cx="72.2" cy="32.0" r="7" fill="none" style="stroke:var(--gold)" stroke-width="1" opacity="0"><animate attributeName="r" values="3;10" dur="4s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.7;0" dur="4s" repeatCount="indefinite"/></circle><circle cx="274.8" cy="32.0" r="7" fill="none" style="stroke:var(--gold)" stroke-width="1" opacity="0"><animate attributeName="r" values="3;10" dur="4s" begin="2s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.7;0" dur="4s" begin="2s" repeatCount="indefinite"/></circle>
+<text x="173.5" y="42.5" text-anchor="middle" class="sg" font-size="30" style="fill:url(#tg)">Tech Stack</text>
+</svg>

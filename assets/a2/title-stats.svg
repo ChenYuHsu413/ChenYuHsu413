@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="263" height="64" viewBox="0 0 263 64" role="img" aria-label="Stats">
+<style>:root{--bg:#07070F;--panel:#0D0B1A;--line:#2A2340;--accent:#FF9A3C;--gold:#FFD27A;--violet:#8466FF;--text:#C9D1D9;--muted:#8B949E;--bright:#F0F6FC;--hole:#000000;--horizon:#000000;--star:#FFFFFF}@font-face{font-family:'SG';src:url(data:font/woff2;base64,d09GMgABAAAAAANwAA8AAAAABjgAAAMYAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGjAbgTYcVgZgP1NUQVQcAEQRCAqEOIN9ATYCJAMYCw4ABCAFOAcgG+oEUVQuJgB+FsZutFUb0xSGYLRaDp0aC4vZuLzt49zY6xgP9Wugb/d+iEEzO2KwgMJEA/oISdBWmEZ1egUAOKVz/2VLMA2to+JpEfNsmK2y+ioq+WC64xtHNAyeqqld68cSf9CStfYOlRsuf+su6AQHNntfLw90RiOjqZsSqt6ZbWNwMHaTQHN0RwgNxCqnhkLzDih3x3OBpvobK6fNmLdMyx1rD+zSUoG/SWf7xn27NKYiKFJMTfXNmysA2wrOjyr1CWmygikWKRpA/Zn6P+QIsv5j18BPCNIp4liQqgiqGwx/c+OOrZvXIsWLZ9B23y0aSEVoFuT4jNOAvAaaufPEKmNDhPThthlz8d5SB6rL/z9RToUWXSf+ygX0fo/bNBZoD8jDm7cciByi6gdV3FaMRmONJZZa60BdZ2D/SfWz+ml9RwAIofHk8D0NQXM0wgf8ARRASCHkjrUubqikpCRpQwhCHDTTeDsDqSVko4MQghTD4O00DWCQWtvD2g7AyV1rbZqmwYuL6DaZgyuskbNjhs/PZEBz2QbrXUsQYgMTOzHtDIRY2wy4KGlDMbGDi7t4+zKk5mx0ttAZpI5BQdTQkWz5rLX2Jn0KXsi0nUEpDOIMQIqxXPvKEvifwTqs1s47L4SoIrwjPX18fe1NeKpuate0l1y6mXWwq6tjfIFpQECZuUdaoKBKYKjEGLj8G3XfahlBvnJ5Zk6hbq5uZLk1eLKK1DLztrQw84wW2nZzdd/HWZiU5winQmN13CSF4qQ1LtuADNc657EUkpkDfrK9r5st1qL9wON+UxbXRUqH5RAZju480ydCc/fyVT9SaGTqlxscG5nn/5fDq4nQ1RsniFnvt5w4nqNlMKpwiQajr5gPoEjqcdnwLbKrbU92Gjmp3eRu9zXM7dR66afhhEDyauVvAtnK6d/GVfUPfHzQ9y7A352cakG3+jN/5B4aShB8vnF1XoHqOEMgp2H3sVUpNiDdDUkZw2NXt0pWN4GGJrj10LbUUyVKE6kl+W8LmmtpiY02O2iHtfZZaaOtNtvigAqoHxgLAA==) format('woff2');}
+.bg{fill:var(--bg)}.panel{fill:var(--panel)}.ln{stroke:var(--line)}.acc{fill:var(--accent)}.gold{fill:var(--gold)}
+.vio{fill:var(--violet)}.txt{fill:var(--text)}.mut{fill:var(--muted)}.brt{fill:var(--bright)}
+.sg{font-family:'SG',sans-serif;font-weight:600}.sgr{font-family:'SGR','Noto Sans TC','Microsoft JhengHei','PingFang TC','Heiti TC',sans-serif}.jb{font-family:'JB',Consolas,monospace}
+</style>
+<defs>
+<linearGradient id="tg" x1="0" y1="0" x2="1" y2="0"><stop offset="0" style="stop-color:var(--gold);stop-opacity:1"/><stop offset="1" style="stop-color:var(--accent);stop-opacity:1"/></linearGradient>
+<linearGradient id="ll" x1="0" y1="0" x2="1" y2="0"><stop offset="0" style="stop-color:var(--violet);stop-opacity:0"/><stop offset="0.6" style="stop-color:var(--violet);stop-opacity:0.8"/><stop offset="1" style="stop-color:var(--accent);stop-opacity:1"/></linearGradient>
+<linearGradient id="lr" x1="0" y1="0" x2="1" y2="0"><stop offset="0" style="stop-color:var(--accent);stop-opacity:1"/><stop offset="0.4" style="stop-color:var(--violet);stop-opacity:0.8"/><stop offset="1" style="stop-color:var(--violet);stop-opacity:0"/></linearGradient>
+<filter id="gl" x="-200%" y="-200%" width="500%" height="500%"><feGaussianBlur stdDeviation="2.5"/></filter>
+</defs>
+<rect x="0.1" y="31.4" width="64" height="1.2" fill="url(#ll)"/>
+<rect x="198.9" y="31.4" width="64" height="1.2" fill="url(#lr)"/>
+<circle cx="72.1" cy="32.0" r="6" class="acc" filter="url(#gl)" opacity="0.6"/>
+<circle cx="72.1" cy="32.0" r="3" class="gold"/>
+<circle cx="190.9" cy="32.0" r="6" class="acc" filter="url(#gl)" opacity="0.6"/>
+<circle cx="190.9" cy="32.0" r="3" class="gold"/>
+<circle cx="72.1" cy="32.0" r="7" fill="none" style="stroke:var(--gold)" stroke-width="1" opacity="0"><animate attributeName="r" values="3;10" dur="4s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.7;0" dur="4s" repeatCount="indefinite"/></circle><circle cx="190.9" cy="32.0" r="7" fill="none" style="stroke:var(--gold)" stroke-width="1" opacity="0"><animate attributeName="r" values="3;10" dur="4s" begin="2s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.7;0" dur="4s" begin="2s" repeatCount="indefinite"/></circle>
+<text x="131.5" y="42.5" text-anchor="middle" class="sg" font-size="30" style="fill:url(#tg)">Stats</text>
+</svg>
